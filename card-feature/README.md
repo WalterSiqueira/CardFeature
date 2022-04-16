@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/WalterSiqueira/Calculator)
-- Live Site URL: [Add live site URL here](https://simple-calculator-self.vercel.app/)
+- Solution URL: [frontend mentor]()
+- Live Site URL: [vercel](https://card-feature-opal.vercel.app/)
 
 ## My process
 
